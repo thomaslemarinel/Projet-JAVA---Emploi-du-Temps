@@ -1,5 +1,18 @@
---- Projet JAVA réalisé en L2 Informatique à l'Université de Caen Normandie par LEMARINEL Thomas ---
+# Projet Java - Gestion d'Emploi du Temps
 
--- Projet de gestion d'emploi du temps qui doivent respecter un certain nombre de contraintes définies par des classes JAVA -- 
+---
 
+**Auteur :** LEMARINEL Thomas  
+**Formation :** L2 Informatique  
+**Université :** Université de Caen Normandie
 
+---
+
+## Description
+
+Ce projet est une application Java réalisée dans le cadre de la Licence 2 Informatique à l'Université de Caen Normandie.
+
+L'objectif est de gérer un emploi du temps qui doit respecter un certain nombre de contraintes définies par des classes Java.  
+Le système permet de planifier des activités en prenant en compte ces contraintes afin d'éviter les conflits et d'optimiser l'organisation.
+
+---
